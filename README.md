@@ -14,3 +14,10 @@
 ## Connect
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/felix-dietrich2799/)
+
+## Current Projects
+
+- 🧰 **[Open*********](https://github.com/Faillixxx)** - Developing a Generative CAD Model for Commercial Applications
+
+- 📗 **[**********](https://github.com/Faillixxx)** - Building the Recipe App People Actually Want
+
