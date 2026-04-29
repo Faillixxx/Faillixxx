@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg#icon) ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg#icon) ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg#icon) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg#icon) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg#icon) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg#icon) ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg#icon)
 
 ## More Tech
 
