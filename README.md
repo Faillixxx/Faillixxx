@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Anthropic](https://img.shields.io/badge/Anthropic-D9A224?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[<img src="https://developers.openai.com/assets/OAI_Codex-Lockup_Fallback_Black.svg" width="105" alt="Codex" />](https://openai.com/codex)
+[<img src="https://developers.openai.com/assets/OAI_Codex-Lockup_Fallback_Black.svg" width="105" alt="Codex" style="vertical-align:middle" />](https://openai.com/codex)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
