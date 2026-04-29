@@ -8,9 +8,14 @@
 [![Rust](https://img.shields.io/badge/Rust-ce422b?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Anthropic](https://img.shields.io/badge/Anthropic-D9A224?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://www.openai.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
+[![Affinity](https://img.shields.io/badge/Affinity-242425?style=flat&logo=affinity-designer&logoColor=white)](https://affinity.serif.com/designer)
+[![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat&logo=toml&logoColor=white)](https://toml.io)
 
 ## More Tech
 
