@@ -4,15 +4,14 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/assets/icons/python.svg" width="40" height="40" alt="Python" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/rust.svg" width="40" height="40" alt="Rust" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/tomlpkg.svg" width="40" height="40" alt="TOML" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/affinitydesigner.svg" width="40" height="40" alt="Affinity" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/git.svg" width="40" height="40" alt="Git" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/docker.svg" width="40" height="40" alt="Docker" />&nbsp;
-<img src="https://skillicons.dev/assets/icons/linux.svg" width="40" height="40" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" width="40" height="40" alt="Affinity Designer" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 
 ## More Tech
 
