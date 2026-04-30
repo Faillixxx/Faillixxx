@@ -46,9 +46,9 @@ I like building practical systems that connect engineering, developer tooling, a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/dadcdcbada07eafda9ebe3a58e73fbe2ad23343a/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/dadcdcbada07eafda9ebe3a58e73fbe2ad23343a/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Faillixxx/Faillixxx/dadcdcbada07eafda9ebe3a58e73fbe2ad23343a/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/0454801242290802ad8088d5c9d7ec9c2e3492c0/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/0454801242290802ad8088d5c9d7ec9c2e3492c0/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Faillixxx/Faillixxx/0454801242290802ad8088d5c9d7ec9c2e3492c0/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
