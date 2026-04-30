@@ -44,13 +44,7 @@ I like building practical systems that connect engineering, developer tooling, a
 
 ## Contribution Grid
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faillixxx/Faillixxx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Faillixxx/Faillixxx/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Faillixxx/Faillixxx/output/github-contribution-grid-snake.svg)
 
 ## Outside Work
 
