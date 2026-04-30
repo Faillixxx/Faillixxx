@@ -1,39 +1,51 @@
-# Hi, I'm Felix
+# Felix Dietrich
 
-📍 **Freiburg** | 🤖 **Field-Application Expert**
+Field Application Expert based in Freiburg, working across software, automation, and generative tooling.
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-dietrich2799/)
+
+## About
+
+I like building practical systems that connect engineering, developer tooling, and real-world workflows. Most of my work sits at the intersection of:
+
+- Python and Rust for reliable tools and automation
+- TypeScript and JavaScript for product and interface work
+- CAD and generative workflows for commercial applications
+- AI-assisted development with modern tooling
+
+## Stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Rust](https://img.shields.io/badge/Rust-ce422b?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Anthropic](https://img.shields.io/badge/Anthropic-D9A224?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat&logo=openai)](https://openai.com/codex)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
-[![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat&logo=toml&logoColor=white)](https://toml.io)
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex)
+[![Anthropic](https://img.shields.io/badge/Anthropic-D9A224?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 
-## More Tech
+## Tooling
 
-- **CAD:** Fusion 360, FreeCAD, Onshape
-- **Tools:** Neovim, VS Code
+- CAD: Fusion 360, FreeCAD, Onshape
+- Editors: Neovim, VS Code
+- Formats and config: TOML, containerized workflows, reproducible setups
 
-## Personal Interests
+## Current Focus
 
-- 🏔️ **Hiking** — Exploring the Black Forest
-- 🍳 **Cooking** — Experimenting with new recipes
-- 🎮 **Indie Games** — Small projects, big learnings
-- 📚 **Reading** — Sci-fi, technical deep-dives
-- 🛠️ **Making** — If it breaks, I'll fix it
+- Developing a generative CAD model for commercial applications
+- Building product-oriented tools that feel useful immediately
+- Exploring AI-native workflows for engineering and software delivery
 
-## Connect
+## Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-dietrich2799/)
+- [Open********](https://github.com/Faillixxx) - Generative CAD work for commercial use cases
+- [********](https://github.com/Faillixxx) - A recipe app built around actual user needs
 
-## Current Projects
+## Outside Work
 
-- 🧰 **[Open********](https://github.com/Faillixxx)** — Developing a Generative CAD Model for Commercial Applications
-- 📗 **[********](https://github.com/Faillixxx)** — Building the Recipe App People Actually Want
+- Hiking in the Black Forest
+- Cooking and experimenting with recipes
+- Indie games and small side projects
+- Reading sci-fi and technical deep-dives
+- Fixing and making things
