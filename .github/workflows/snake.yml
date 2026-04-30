@@ -35,9 +35,6 @@ jobs:
           for path in Path("dist").glob("github-contribution-grid-snake*.svg"):
               svg = path.read_text()
               svg = re.sub(r'<rect class="u [^"]*"[^>]*/>', "", svg)
-              svg = re.sub(r'\.u\{[^}]*\}', "", svg)
-              svg = re.sub(r'@keyframes u\d+\{[^}]*\}', "", svg)
-              svg = re.sub(r'\.u\.u\d+\{[^}]*\}', "", svg)
               svg = svg.replace('viewBox="-16 -32 880 192"', 'viewBox="-16 -32 880 144"')
               svg = svg.replace('height="192"', 'height="144"')
               path.write_text(svg)
