@@ -24,7 +24,7 @@ I like building practical systems that connect engineering, developer tooling, a
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org)
 [![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat&logo=openai&logoColor=white)](https://openai.com/codex)
 [![Anthropic](https://img.shields.io/badge/Anthropic-D9A224?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ## Tooling
 
 - CAD: Fusion 360, FreeCAD, Onshape
